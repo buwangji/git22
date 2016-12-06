@@ -1,1 +1,3 @@
-com\laowang\AjavServlet.class
+com\laowang\utils\User.class
+com\laowang\web\AjavServlet.class
+com\laowang\web\UserServlet.class

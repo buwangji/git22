@@ -1,4 +1,4 @@
-package com.laowang;
+package com.laowang.web;
 
 
 import javax.servlet.ServletException;
