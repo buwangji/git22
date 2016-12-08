@@ -18,7 +18,7 @@
                     if(xmlHttp.status == 200) {
                         //获取服务端返回的字符串
                         var result = xmlHttp.responseText;
-                        //将字符串转换为JSON
+                         //将字符串转换为JSON
                         var json = JSON.parse(result);
 
                         for(var i = 0;i < json.length;i++) {
