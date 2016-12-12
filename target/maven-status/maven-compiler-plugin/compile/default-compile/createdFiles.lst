@@ -1,6 +1,7 @@
 com\laowang\service\MessageService.class
 com\laowang\utils\ConnectionManager.class
 com\laowang\web\UserServlet.class
+com\laowang\web\QiuNiu2Servlet.class
 com\laowang\dao\MessageDao.class
 com\laowang\utils\Page.class
 com\laowang\exception\DataAccessException.class

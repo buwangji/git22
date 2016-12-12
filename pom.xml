@@ -56,6 +56,19 @@
       <version>2.1.1</version>
     </dependency>
 
+    <dependency>
+      <groupId>com.qiniu</groupId>
+      <artifactId>qiniu-java-sdk</artifactId>
+      <version>7.2.0</version>
+      <!--排除Maven的依赖-->
+      <exclusions>
+        <exclusion>
+          <artifactId>com.google.code.gson</artifactId>
+          <groupId>gson</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+
 
 
 
